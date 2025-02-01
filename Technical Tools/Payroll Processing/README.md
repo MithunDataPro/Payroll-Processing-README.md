@@ -99,4 +99,39 @@ Several states have enacted tax reforms effective January 1, 2025:
 
 *This information is intended for general guidance. For specific tax advice, please consult a tax professional or the respective state tax authority.*
 
+# 📌 US & Canada Payroll Tax Computation
 
+---
+
+## **1. US Payroll Tax Breakdown**
+Payroll tax in the US is divided into **three main categories**:
+
+### **🔹 Tax Type & Rates**
+| **Tax Type**                      | **Employer Pays** | **Employee Pays** | **Rate** |
+|------------------------------------|------------------|------------------|----------|
+| **Federal Income Tax (FIT)**       | ❌               | ✅               | Based on Tax Brackets |
+| **Social Security Tax (FICA)**     | ✅ 6.2%          | ✅ 6.2%          | **12.4% Total** |
+| **Medicare Tax**                   | ✅ 1.45%         | ✅ 1.45%         | **2.9% Total** |
+| **Additional Medicare Tax**         | ❌               | ✅ 0.9% (above $200k income) | Varies |
+| **Federal Unemployment Tax (FUTA)** | ✅ 6% (on first $7,000) | ❌ | **6%** |
+
+---
+
+### **2. State Payroll Tax (SIT & SUTA)**
+#### **📌 No State Income Tax**
+The following states do **not** impose a state income tax:
+✅ **Texas, Florida, Nevada, South Dakota, Washington, Wyoming, Alaska**.
+
+#### **📌 Highest State Tax Rates**
+- **California**: ~**13.3%** (highest in the US)
+- **New York**: ~**10.9%**
+
+#### **📌 Local Taxes**
+Some cities impose **additional local taxes**, such as:
+- **New York City**
+- **Philadelphia**
+- **San Francisco**
+
+✅ **Employers must comply with federal, state, and local tax regulations to ensure accurate payroll processing.**
+
+---
