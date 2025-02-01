@@ -191,7 +191,7 @@ PVX Plus is highly optimized for **processing large amounts of data**:
 PVX Plus supports **multiple ways to ingest data**, including:
 
 - **Direct Data Entry** via PVX Plus UI 🖥️  
-- **ODBC Integration** with MySQL / MS SQL 🛢️  
+- **ODBC(Open Database Connectivity) Integration** with MySQL / MS SQL 🛢️  
 - **Flat File Imports** (CSV, JSON, XML) 📄  
 - **API Integration** (IRS, ADP, QuickBooks, CRA, Government Portals) 🔗  
 - **Batch Processing Scripts** (PxPlus programs) 📑  
