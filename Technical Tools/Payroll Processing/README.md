@@ -135,3 +135,153 @@ Some cities impose **additional local taxes**, such as:
 ✅ **Employers must comply with federal, state, and local tax regulations to ensure accurate payroll processing.**
 
 ---
+
+
+---
+
+# 🇨🇦 Canada Income Tax Rates for 2025
+
+Understanding both federal and provincial income tax rates is essential for accurate payroll processing and financial planning in Canada. Below is a detailed breakdown of the 2025 tax structures.
+
+## 🏛️ Federal Income Tax Brackets for 2025
+
+The federal income tax system in Canada is progressive, meaning that tax rates increase with higher income levels. The tax brackets for 2025 are as follows:
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $53,359             | 15%          |
+| $53,359 to $106,717       | 20.5%        |
+| $106,717 to $165,430      | 26%          |
+| $165,430 to $235,675      | 29%          |
+| Over $235,675             | 33%          |
+
+*Source: [TaxTips.ca](https://www.taxtips.ca/taxrates/canada.htm)*
+
+## 🗺️ Provincial and Territorial Income Tax Rates for 2025
+
+In addition to federal taxes, individuals are subject to provincial or territorial income taxes, which vary across Canada. Below is an overview of each province and territory's tax structure as of 2025.
+
+### Alberta
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $131,220            | 10%          |
+| $131,220 to $157,464      | 12%          |
+| $157,464 to $209,952      | 13%          |
+| $209,952 to $314,928      | 14%          |
+| Over $314,928             | 15%          |
+
+### British Columbia
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $45,654             | 5.06%        |
+| $45,654 to $91,310        | 7.7%         |
+| $91,310 to $104,835       | 10.5%        |
+| $104,835 to $127,299      | 12.29%       |
+| $127,299 to $172,602      | 14.7%        |
+| $172,602 to $240,716      | 16.8%        |
+| Over $240,716             | 20.5%        |
+
+### Manitoba
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $36,842             | 10.8%        |
+| $36,842 to $79,625        | 12.75%       |
+| Over $79,625              | 17.4%        |
+
+### New Brunswick
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $44,887             | 9.68%        |
+| $44,887 to $89,775        | 14.82%       |
+| $89,775 to $145,955       | 16.52%       |
+| $145,955 to $166,280      | 17.84%       |
+| Over $166,280             | 20.3%        |
+
+### Newfoundland and Labrador
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $41,457             | 8.7%         |
+| $41,457 to $82,913        | 14.5%        |
+| $82,913 to $148,027       | 15.8%        |
+| $148,027 to $207,239      | 17.3%        |
+| $207,239 to $264,750      | 18.3%        |
+| Over $264,750             | 19.8%        |
+
+### Nova Scotia
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $29,590             | 8.79%        |
+| $29,590 to $59,180        | 14.95%       |
+| $59,180 to $93,000        | 16.67%       |
+| $93,000 to $150,000       | 17.5%        |
+| Over $150,000             | 21%          |
+
+### Ontario
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $47,630             | 5.05%        |
+| $47,630 to $95,259        | 9.15%        |
+| $95,259 to $150,000       | 11.16%       |
+| $150,000 to $220,000      | 12.16%       |
+| Over $220,000             | 13.16%       |
+
+### Prince Edward Island
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $31,984             | 9.8%         |
+| $31,984 to $63,969        | 13.8%        |
+| Over $63,969              | 16.7%        |
+
+### Quebec
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $46,295             | 15%          |
+| $46,295 to $92,580        | 20%          |
+| $92,580 to $112,655       | 24%          |
+| Over $112,655             | 25.75%       |
+
+### Saskatchewan
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $49,720             | 10.5%        |
+| $49,720 to $124,935       | 12.5%        |
+| Over $124,935             | 14.5%        |
+
+### Territories
+
+**Northwest Territories**
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $45,462             | 5.9%         |
+| $45,462 to $90,927        | 8.6%         |
+| $90,927 to $147,826       | 12.2%        |
+| Over $147,826             | 14.05%       |
+
+**Nunavut**
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $47,862             | 4%           |
+| $47,862 to $95,724        | 7%           |
+| $95,724 to $155,625       | 9%           |
+| Over $155,625             | 11.5%        |
+
+**Yukon**
+
+| **Taxable Income**        | **Tax Rate** |
+|---------------------------|--------------|
+| Up to $53,359             | 6.4%        
+::contentReference[oaicite:0]{index=0}
+ 
+
