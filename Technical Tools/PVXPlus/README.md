@@ -233,16 +233,32 @@ PVX Plus **does NOT store data internally**. Instead, it uses **external relatio
 
 ---
 
-## 12. How Does PVX Plus Handle Large-Scale Computations?
+---
 
+## **12. How Does PVX Plus Handle Large-Scale Computations?**
 For **1 million+ payroll records**, PVX Plus:
 
-- Uses **SQL indexing** to optimize data retrieval.  
-- Processes **batch payroll calculations** instead of real-time transactions.  
-- Integrates with **C++** for **high-speed tax computation**.  
-- Leverages **multi-threading** and **parallel processing** on cloud servers.  
+- **Uses SQL indexing to optimize data retrieval.**  
+  ✅ **What does this mean?**  
+  - Imagine a book with thousands of pages. If you need to find a specific word, you would use the **index** at the back instead of reading every page.  
+  - Similarly, **SQL indexing** creates a quick reference table in the database, allowing PVX Plus to **fetch payroll records faster** without scanning every row.
 
-✅ PVX Plus is built for **enterprise-scale computations**, ensuring efficiency.
+- **Processes batch payroll calculations instead of real-time transactions.**  
+  ✅ This means that payroll data is processed in **groups (batches)** rather than one record at a time, improving efficiency.
+
+- **Integrates with C++ for high-speed tax computation.**  
+  ✅ PVX Plus can call C++ functions to **speed up complex tax calculations**, reducing processing time.
+
+- **Leverages multi-threading and parallel processing on cloud servers.**  
+  ✅ **What does this mean?**  
+  - Multi-threading allows **multiple tasks to run at the same time** within a program.  
+  - Parallel processing allows **multiple processors (CPUs) to handle different parts of payroll processing at once**.  
+  - This is like having **multiple chefs cooking a meal together** instead of one person doing everything alone, making the payroll system **faster and more efficient**.
+
+✅ PVX Plus is designed to **handle enterprise-scale computations** with **speed and efficiency**.
+
+---
+
 
 ---
 
