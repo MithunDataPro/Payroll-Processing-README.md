@@ -186,17 +186,37 @@ PVX Plus is highly optimized for **processing large amounts of data**:
 
 ---
 
-## 10. How is Data Ingested into PVX Plus?
+---
 
+## **10. How is Data Ingested into PVX Plus?**
 PVX Plus supports **multiple ways to ingest data**, including:
 
 - **Direct Data Entry** via PVX Plus UI 🖥️  
-- **ODBC(Open Database Connectivity) Integration** with MySQL / MS SQL 🛢️  
+- **ODBC Integration** with MySQL / MS SQL 🛢️  
 - **Flat File Imports** (CSV, JSON, XML) 📄  
 - **API Integration** (IRS, ADP, QuickBooks, CRA, Government Portals) 🔗  
 - **Batch Processing Scripts** (PxPlus programs) 📑  
 
 ✅ This flexibility allows businesses to **streamline payroll and data processing**.
+
+### 🔹 **What Port is Used in ODBC?**
+- **Port 1434** is used in **ODBC** to communicate with the SQL server.
+
+### 🔹 **Does ODBC Provide Security?**
+- **Yes**, ODBC provides **security features** to protect **sensitive data** during transmission.
+
+### 🔹 **Distinguishing Between ODBC and OLEDB**
+| Feature | ODBC (Open Database Connectivity) | OLEDB (Object Linking & Embedding Database) |
+|---------|---------------------------------|--------------------------------------------|
+| **Database Type** | Supports **relational databases** | Supports **relational & non-relational databases** |
+| **Connectivity** | Uses **SQL-based** interaction | Uses **COM-based** interaction |
+| **Usage** | Primarily for **SQL-based database systems** | Used for **broader data access**, including **spreadsheets & web-based data** |
+| **Performance** | Optimized for **structured data** | Works well for **structured & semi-structured data** |
+
+✅ ODBC is best for **standard relational databases**, while **OLEDB** is more flexible, supporting **both relational & non-relational data sources**.
+
+---
+
 
 ---
 
