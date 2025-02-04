@@ -13,9 +13,9 @@ Coming to my project experience, I have worked in financial and construction-bas
 
 I have completed my Bachelor’s in Engineering and a Master’s in Data Science from Pace University (NY, 2024 Passout).
 
-I also hold the following professional certifications:
-✅ Databricks Certified Data Engineer - Professional
-✅ Microsoft Certified: Azure Data Engineer Associate
-✅ AWS Certified Data Engineer - Associate
+**I also hold the following professional certifications:**
+- ✅ Databricks Certified Data Engineer - Professional
+- ✅ Microsoft Certified: Azure Data Engineer Associate
+- ✅ AWS Certified Data Engineer - Associate
 
 
